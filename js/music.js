@@ -1,5 +1,5 @@
 function music_on(){
-    var musicbox=["https://static-music-1253741713.cos.ap-beijing.myqcloud.com/1-BEYOND%20-%20%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp3","https://static-music-1253741713.cos.ap-beijing.myqcloud.com/61-%E5%88%98%E5%BE%B7%E5%8D%8E%20-%20%E4%B8%80%E8%B5%B7%E8%B5%B0%E8%BF%87%E7%9A%84%E6%97%A5%E5%AD%90.mp3"];
+    var musicbox=["https://static-music-1253741713.cos.ap-beijing.myqcloud.com/64-%E5%8D%A2%E5%86%A0%E5%BB%B7%2C%E8%8E%AB%E6%96%87%E8%94%9A%20-%20%E4%B8%80%E7%94%9F%E6%89%80%E7%88%B1.mp3","https://static-music-1253741713.cos.ap-beijing.myqcloud.com/61-%E5%88%98%E5%BE%B7%E5%8D%8E%20-%20%E4%B8%80%E8%B5%B7%E8%B5%B0%E8%BF%87%E7%9A%84%E6%97%A5%E5%AD%90.mp3"];
     var audio1=document.getElementById('bg_music');
     if(audio1.paused){
         var index=Math.floor((Math.random()*musicbox.length));
