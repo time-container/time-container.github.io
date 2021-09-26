@@ -1,5 +1,5 @@
 
 ## Homepage
 
-- My Homepage. => https://time-container.github.io
-- My Blog. => https://time-containe.github.io/blog
+- Homepage => https://time-container.github.io
+- Blog => https://time-containe.github.io/blog
